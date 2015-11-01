@@ -1,19 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: http://ehrnhoefer.com
 
-- title: Articles
-  url: /articles/
+- title: Dev Blog
+  url: /
 
-- title: Blog
-  url: /blog/
+- title: Outdoor
+  url: /outdoor/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-
-- title: Search
-  url: /search/
+#- title: Search
+#  url: /search/

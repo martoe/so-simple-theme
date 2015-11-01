@@ -26,6 +26,10 @@
   a > span {
     float: right;
   }
+  .post-title {
+    float: none;
+    @include font-size(30);
+  }
   .entry-date {
     @include font-size(14,no);
     text-transform: uppercase;
